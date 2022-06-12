@@ -1,0 +1,69 @@
+p{
+    color: green;
+}
+img{
+    width: 120px;
+}
+td{
+    background-color: aqua;
+    color: navy;
+    
+}
+th{
+    font-family: cursive;
+    
+}
+
+table,th, td{
+    border: 2px solid;
+}
+form{
+    background-color: rgb(247, 85, 56);
+    margin-top: 100px;
+}
+span{
+    color: red;
+}
+div{
+    background-color: bisque;
+    width: 45%;
+   
+    margin-left: 250px;
+}
+/* h1{
+    text-align: center;
+} */
+a{
+    font-style: italic;
+}
+.landing{
+    color: brown;
+    text-decoration: none;
+}
+.firstid{
+    background-color: aqua;
+}
+#firstid{
+    font-weight: 900;
+}
+.pos_1{
+    width: 50px;
+    border-radius: 50px;
+    position: fixed;
+    bottom: 150px;
+    left: 200px;
+}
+.lastinp{
+    width: 400px;
+    height: 30px;
+    position: relative;
+    padding-left: 30px;
+}
+.abs{
+    position: absolute;
+    width: 15px;
+    z-index: 2;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
